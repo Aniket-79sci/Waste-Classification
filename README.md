@@ -19,7 +19,6 @@ Requirements
 - TensorFlow 2.x
 - NumPy
 - Matplotlib
-- Scikit-learn
 
 Installation
 1. Clone the repository using `git clone https://github.com/provikash/cnn-model-for-waste-management.git`
@@ -48,12 +47,12 @@ The CNN model used for this project consists of the following layers:
 Contributing
 Contributions are welcome! If you'd like to contribute to this project, please fork the repository and submit a pull request.
 
-License
-This project is licensed under the MIT License.
-
 Acknowledgments
 - https://keras.io/
 - https://www.tensorflow.org/
 - https://numpy.org/
 - https://matplotlib.org/
-- https://scikit-learn.org/
+
+contact me
+- aniket79rph@gmail.com
+- www.linkedin.com/in/aniket-mukherjee-2b4122170
