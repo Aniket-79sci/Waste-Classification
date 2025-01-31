@@ -1,34 +1,38 @@
 # waste classification
-AICTE Virtual Internship project for waste classification using CNN
 
-Dataset for the project is linked here: https://www.kaggle.com/datasets/techsash/waste-classification-data
+CNN Model for Waste Management
+
+A deep learning-based approach to classify waste into different categories using Convolutional Neural Networks (CNNs).
 
 Overview This project aims to develop a CNN model that can accurately classify waste into different categories, such as recyclable, non-recyclable, organic, etc. The model is trained and tested on a dataset of images of various types of waste.
 
-Features-
+Features
+
 CNN model implemented using Keras and TensorFlow
 Dataset of images of different types of waste
 Training and testing scripts
 Model evaluation metrics (accuracy, precision, recall, F1-score)
+Requirements
 
-Requirements-
 Python 3.x
 Keras 2.x
 TensorFlow 2.x
 NumPy
 Matplotlib
+Scikit-learn
+Installation
 
-Installation-
 Clone the repository using git clone https://github.com/provikash/cnn-model-for-waste-management.git
 Install the required dependencies using pip install -r requirements.txt
+Usage
 
-Usage-
 Train the model using python train.py
 Test the model using python test.py
 Evaluate the model using python evaluate.py
 Dataset The dataset used for this project is a collection of images of different types of waste. The dataset is divided into training and testing sets.
 
-Model Architecture The CNN model used for this project consists of the following layers-
+Model Architecture The CNN model used for this project consists of the following layers:
+
 Conv2D layer with 32 filters and kernel size 3x3
 MaxPooling2D layer with pool size 2x2
 Conv2D layer with 64 filters and kernel size 3x3
@@ -41,8 +45,10 @@ Contributing Contributions are welcome! If you'd like to contribute to this proj
 
 License This project is licensed under the MIT License.
 
-Acknowledgments-
+Acknowledgments
+
 https://keras.io/
 https://www.tensorflow.org/
 https://numpy.org/
 https://matplotlib.org/
+https://scikit-learn.org/
