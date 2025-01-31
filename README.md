@@ -7,6 +7,9 @@ A deep learning-based approach to classify waste into different categories using
 Overview
 This project aims to develop a CNN model that can accurately classify waste into different categories, such as recyclable, non-recyclable, organic, etc. The model is trained and tested on a dataset of images of various types of waste.
 
+Dataset
+- https://www.kaggle.com/datasets/techsash/waste-classification-data
+
 Features
 - CNN model implemented using Keras and TensorFlow
 - Dataset of images of different types of waste
